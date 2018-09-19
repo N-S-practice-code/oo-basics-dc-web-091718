@@ -1,5 +1,5 @@
-class Book
-  attr_accessor :color
+class Shoe
+  attr_accessor :brand
   attr_accessor :color
   attr_accessor :size
   attr_accessor :page_count
