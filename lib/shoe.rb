@@ -1,6 +1,7 @@
 class Book
-  attr_accessor :author
-  attr_accessor :title
+  attr_accessor :color
+  attr_accessor :color
+  attr_accessor :size
   attr_accessor :page_count
   attr_accessor :condition
   
