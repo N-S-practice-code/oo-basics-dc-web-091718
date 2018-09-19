@@ -6,7 +6,7 @@ class Book
     @title = title
   end
  
-  def name
+  def turn
     @name
   end
   
